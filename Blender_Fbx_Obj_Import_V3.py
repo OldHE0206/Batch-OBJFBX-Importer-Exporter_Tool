@@ -7,7 +7,7 @@
 
 bl_info = {
     "name": "Batch OBJ/FBX Importer & Exporter",
-    "author": "Your Name",
+    "author": "Yuqiao Lee",
     "version": (1, 1),
     "blender": (5, 0, 0),
     "location": "3D Viewport > Sidebar (N-Panel) > Import/Export Tools",
