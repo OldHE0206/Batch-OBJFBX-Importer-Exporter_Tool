@@ -2,12 +2,12 @@
 # Batch Import & Export Add-on for Blender 5.0
 # Supports batch import of OBJ/FBX files from a folder (including ZIP archives),
 # and batch export of mesh objects to individual OBJ/FBX files.
-# Author: AI Assistant
+# Author: Yuqiao Lee
 # ============================================================
 
 bl_info = {
     "name": "Batch OBJ/FBX Importer & Exporter",
-    "author": "Your Name",
+    "author": "Yuqiao Lee",
     "version": (1, 3),
     "blender": (5, 0, 0),
     "location": "3D Viewport > Sidebar (N-Panel) > Import/Export Tools",
